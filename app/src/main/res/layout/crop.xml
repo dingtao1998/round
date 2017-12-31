@@ -7,9 +7,10 @@
 
 
     <dt.com.round.RoundImgCreatorView
+        android:layout_gravity="center"
         android:id="@+id/rcv"
-        android:layout_width="400dp"
-        android:layout_height="400dp"/>
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
     <ImageView
         android:background="@android:drawable/ic_secure"
         android:id="@+id/iv1"
